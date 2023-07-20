@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Narayanan-info/Redir_X/"><img src="Assets/Image_f.png" alt="Assets"></a>
+  <a href="https://github.com/Narayanan-info/Redir_X/"><img src="Assets/Image_1.png" alt="Assets"></a>
   <br>
-  Redir_X
+  FuzzDir_X
   <br>
 </h1>
 
@@ -22,14 +22,14 @@
 
 ---
 
-`RedirX` is a Advance Open Redirect Vulnerability Scanner tool that returns valid vulnerable poc for vulnerable websites, using Active online sources. It has a simple, modular architecture and is optimized for speed. `RedirX` is built for doing one thing only - Active Advance Open Scanning, and it does that very well, and it will be genrated posibale to vulnerabile and vulnerabile url's `OUTPUT` are saved on you'r tool directory. 
+`FuzzdirX` is a Advance Open Redirect Vulnerability Scanner tool that returns valid vulnerable poc for vulnerable websites, using Active online sources. It has a simple, modular architecture and is optimized for speed. `FuzzdirX` is built for doing one thing only - Active Advance Open Scanning, and it does that very well, and it will be genrated posibale to vulnerabile and vulnerabile url's `OUTPUT` are saved on you'r tool directory. 
 
 The Active model guarantees speed and stealthiness that can be leveraged by both penetration testers and bug bounty hunters alike.
 
 # Features
 
 <h1 align="left">
-  <img src="Assets/Image.png" alt="RedirX" width="700px"></a>
+  <img src="Assets/Image_2.png" alt="FuzzdirX" width="700px"></a>
   <br>
 </h1>
 
