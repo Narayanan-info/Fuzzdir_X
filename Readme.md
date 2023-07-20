@@ -41,7 +41,7 @@ The Active model guarantees speed and stealthiness that can be leveraged by both
 # Execution
 
 <h1 align="left">
-  <img src="Assets/Image_1.png" alt="FuzzdirX" width="700px"></a>
+  <img src="Assets/Image_3.png" alt="FuzzdirX" width="700px"></a>
   <br>
 </h1>
 
