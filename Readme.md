@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Advanced Open Redirection Detection Suite</h4>
+<h4 align="center">Advanced ( 🔥 ) Powerful Directory Fuzzer Suite</h4>
 
 <p align="center">
   <a href="https://github.com/Narayanan-info/Redir_X/">
@@ -22,7 +22,7 @@
 
 ---
 
-`FuzzdirX` is a Advance Open Redirect Vulnerability Scanner tool that returns valid vulnerable poc for vulnerable websites, using Active online sources. It has a simple, modular architecture and is optimized for speed. `FuzzdirX` is built for doing one thing only - Active Advance Open Scanning, and it does that very well, and it will be genrated posibale to vulnerabile and vulnerabile url's `OUTPUT` are saved on you'r tool directory. 
+`FuzzdirX` is a Advance & Powerful Directory Fuzzer Suite that returns a valid directory with the status code and saves it into your tool directory Ffile called `OUTPUT` , using Active Online Sources. It has a simple, modular architecture and is optimised for speed. `FuzzdirX` is built for doing one thing only: - Advance & Powerful Directory Fuzzing, and it does that very well.
 
 The Active model guarantees speed and stealthiness that can be leveraged by both penetration testers and bug bounty hunters alike.
 
@@ -33,7 +33,7 @@ The Active model guarantees speed and stealthiness that can be leveraged by both
   <br>
 </h1>
 
-- Fast and powerful resolution - [ Active Open Redirect ]
+- Fast and powerful resolution - [ Active Directory Fuzzing ]
 - **Curated** Active sources to maximize results
 - Optimized for speed and **lightweight** on resources
 - **STDIN/OUT** support enables easy integration into workflows
@@ -41,27 +41,21 @@ The Active model guarantees speed and stealthiness that can be leveraged by both
 # Execution
 
 <h1 align="left">
-  <img src="Assets/Image_1.png" alt="RedirX" width="700px"></a>
+  <img src="Assets/Image_1.png" alt="FuzzdirX" width="700px"></a>
   <br>
 </h1>
 
 # Usage
 
-`Usage` This command is used to execute the function of the tool then actively validate the url for vulnerabile to active open redirect
+`Usage` This command is used to execute the function of the tool then actively validate the url and fuzz the directory super fast ( 🔥 )
 
 ```sh
-node RedirX_dev.js -u <URL> -p <payload_file> -t <thread> 
-```
-
-`whitelisted` This command is used for whitelisted you trageted domain
-
-```sh
-node RedirX_dev.js -u <URL> -p <payload_file> -t <thread> -w <whitelisted>
+node fuzzdir.js -u <URL> -w <Wordlist> 
 ```
 
 # License 
 
-`RedirX` is my first tool for pentesting and bug bounty hunting with love. Certainly! The MIT License is a permissive open-source software license that allows developers to use, modify, distribute, and sublicense the software with very few `restrictions`. It is widely used in the software development community due to its simplicity and permissiveness. Under the MIT License, users can freely use the software in both personal and commercial projects, as long as they include the original copyright notice and disclaimers. This license is often favored for its flexibility and encouragement of collaboration among `developers`.
+`FuzzdirX` is my first tool for pentesting and bug bounty hunting with love. Certainly! The MIT License is a permissive open-source software license that allows developers to use, modify, distribute, and sublicense the software with very few `restrictions`. It is widely used in the software development community due to its simplicity and permissiveness. Under the MIT License, users can freely use the software in both personal and commercial projects, as long as they include the original copyright notice and disclaimers. This license is often favored for its flexibility and encouragement of collaboration among `developers`.
 
 
 
