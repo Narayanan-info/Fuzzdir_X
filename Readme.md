@@ -50,7 +50,7 @@ The Active model guarantees speed and stealthiness that can be leveraged by both
 `Usage` This command is used to execute the function of the tool then actively validate the url and fuzz the directory super fast ( 🔥 )
 
 ```sh
-node fuzzdir.js -u <URL> -w <Wordlist> 
+node FuzzdirX.js -u <URL> -w <Wordlist> 
 ```
 
 # License 

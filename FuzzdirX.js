@@ -19,7 +19,7 @@ function showBanner() {
   console.log("	           Advance & Powerful Directory Fuzzer                          ");
   console.log("		        By: Narayanan | @infops                           ");
   console.log("	            Hackerone & Bugcroud | @infops                            ");
-  console.log("Usage: node fuzzdir.js -u <URL> -w <Wordlist>");
+  console.log("Usage: node Fuzzdir.js -u <URL> -w <Wordlist>");
   console.log("  -u: Enter the URL");
   console.log("  -w: Enter the Wordlist");
   console.log("  -h: Help");
