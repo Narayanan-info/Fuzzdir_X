@@ -9,15 +9,16 @@ const options = {
 };
 
 function showBanner() {
+  console.log("                                                                               ");
   console.log("  ███████╗██╗   ██╗███████╗███████╗██████╗ ██╗██████╗         ██╗  ██╗         ");
   console.log("  ██╔════╝██║   ██║╚══███╔╝╚══███╔╝██╔══██╗██║██╔══██╗        ╚██╗██╔╝         ");
   console.log("  █████╗  ██║   ██║  ███╔╝   ███╔╝ ██║  ██║██║██████╔╝         ╚███╔╝          ");
   console.log("  ██╔══╝  ██║   ██║ ███╔╝   ███╔╝  ██║  ██║██║██╔══██╗         ██╔██╗          ");
   console.log("  ██║     ╚██████╔╝███████╗███████╗██████╔╝██║██║  ██║███████╗██╔╝ ██╗         ");
   console.log("  ╚═╝      ╚═════╝ ╚══════╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝         ");
-  console.log("	                 Advance & Powerful Directory Fuzzer                          ");
-  console.log("		               By: Narayanan | @infops                           ");
-  console.log("	                    Hackerone & Bugcroud | @infops                            ");
+  console.log("	           Advance & Powerful Directory Fuzzer                          ");
+  console.log("		        By: Narayanan | @infops                           ");
+  console.log("	            Hackerone & Bugcroud | @infops                            ");
   console.log("Usage: node fuzzdir.js -u <URL> -w <Wordlist>");
   console.log("  -u: Enter the URL");
   console.log("  -w: Enter the Wordlist");
